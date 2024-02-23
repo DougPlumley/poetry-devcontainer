@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "poetry-devcontainer"
+name = "examplelib"
 version = "1.0.0"
 description = "Example of a Python project using Poetry in a Dev Container"
 authors = ["Douglas Plumley <douglas.plumley@dartmouth.edu>"]
